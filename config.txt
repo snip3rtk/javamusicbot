@@ -1,5 +1,5 @@
-token=NzAwMDc1MzcwNjAyMjk5NzY1.XpdqDA.z6gXTD20FRL3IO9aYqzhI77rcJ0
-owner=683010692630315177
+token=ehfdiewh
+owner=edhiewuhdiudh
 prefix=r
 stayinchannel=true
 songinstatus=true
